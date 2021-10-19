@@ -1,2 +1,2 @@
 # GitHubFirstRep
- FirstProj
+ First Project
